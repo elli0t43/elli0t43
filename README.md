@@ -5,7 +5,7 @@
 ## I'm a Gamer, Coder, Ethical Hacker, And a Linux Nerd!!
 
 - 🌱 I’m currently Learning More About Coding and CyberSec!!
-- 🥅 2021 Goals: Contribute more to Open Source projects, Make a Better Discord Bot, Make My own website
+- 🥅 2021 Goals: Contribute more to Open Source projects, Make a App that will sync VScode with Phone or Tablet or Another PC without being in same network, Make a Better Discord Bot, Make My own website
 - ⚡ Fun fact: I love To Play Games Like COD
 
 ### Spotify Playing 🎧
