@@ -8,10 +8,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects, Make a App that will sync VScode with Phone or Tablet or Another PC without being in same network, Make a Better Discord Bot, Make My own website
 - ⚡ Fun fact: I love To Play Games Like COD
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31xqtdngvy6iwpukfh3cguxcfmjm)
-
 
 ### Connect with me:
 
