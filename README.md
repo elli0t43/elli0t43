@@ -10,12 +10,11 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />][spoti]
-[spoti]: https://open.spotify.com/user/31xqtdngvy6iwpukfh3cguxcfmjm
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31xqtdngvy6iwpukfh3cguxcfmjm)
+
 
 ### Connect with me:
 
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -43,7 +42,7 @@
 ---
 
 [twitter]: https://twitter.com/elli0t43
-[instragram]: https://instagram.com/elli0t43
+[instagram]: https://instagram.com/elli0t43
 [youtube]: https://www.youtube.com/channel/UCjqJjbMB1vqf2Yzv0vkUMNQ
 
 <details>
