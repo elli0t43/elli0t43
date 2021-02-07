@@ -49,9 +49,9 @@
 [linkedin]: https://www.linkedin.com/in/soumyadeep-dutta-52004b175/
 [twitter2]: https://twitter.com/nerdproductive
 [insta]: https://instagram.com/nerdproductive
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="elli0t43's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elli0t43&show_icons=true&theme=radical" />
 
-</details>
+
