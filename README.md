@@ -1,10 +1,10 @@
-### Hi there, I'm Soumyadeep - AKA [elli0t43][youtube] 👋
+### Hi there, I'm Soumyadeep - AKA [elli0t43][twitter] or [Nerd Productive][youtube] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/elli0t43?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Gamer, Coder, Ethical Hacker, And a Linux Nerd!!
+## I'm a Gamer, Coder, Productivity Nerd And a Linux Nerd!!
 
-- 🌱 I’m currently Learning More About Coding and CyberSec!!
+- 🌱 I’m currently Learning More About Coding and documenting my journey.
 - 🥅 2021 Goals: Contribute more to Open Source projects, Make a App that will sync VScode with Phone or Tablet or Another PC without being in same network, Make a Better Discord Bot, Make My own website
 - ⚡ Fun fact: I love To Play Games Like COD
 
