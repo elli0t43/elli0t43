@@ -1,4 +1,4 @@
-### Hi there, I'm Soumyadeep - AKA elli0t43 👋
+### Hi there, I'm Soumyadeep - AKA [elli0t43][youtube] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/elli0t43?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
@@ -15,10 +15,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="elli0t43| Nerd Productive | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="elli0t43 | Nerd Productive | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter2]
+[<img align="left" alt="elli0t43 | Nerd Productive | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][insta]
+[<img align="left" alt="elli0t43 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="elli0t43 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="elli0t43 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -44,7 +46,9 @@
 [twitter]: https://twitter.com/elli0t43
 [instagram]: https://instagram.com/elli0t43
 [youtube]: https://www.youtube.com/channel/UCjqJjbMB1vqf2Yzv0vkUMNQ
-
+[linkedin]: https://www.linkedin.com/in/soumyadeep-dutta-52004b175/
+[twitter2]: https://twitter.com/nerdproductive
+[insta]: https://instagram.com/nerdproductive
 <details>
   <summary>:zap: GitHub Stats</summary>
 
