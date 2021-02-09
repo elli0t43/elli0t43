@@ -1,7 +1,6 @@
 ### Hi there, I'm Soumyadeep - AKA [elli0t43][twitter] or [Nerd Productive][youtube] 👋
 
 
-[![](https://img.shields.io/youtube/subscrirbe/Nerd Productive?color=red&logo=youtube&label=%40Nerd Productive&style=flat)](https://www.youtube.com/channel/UCjqJjbMB1vqf2Yzv0vkUMNQ)
 [![](https://img.shields.io/twitter/follow/elli0t43?color=gray&logo=twitter&label=%40lli0t43&style=flat)](https://twitter.com/elli0t43)
 [![](https://img.shields.io/github/followers/elli0t43?color=gray&label=%40elli0t43&logo=GitHub)](https://github.com/elli0t43)
 [![](https://img.shields.io/github/stars/elli0t43?color=gray&logo=GitHub)](https://github.com/elli0t43)
