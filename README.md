@@ -1,6 +1,8 @@
 ### Hi there, I'm Soumyadeep - AKA [elli0t43][twitter] or [Nerd Productive][youtube] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/elli0t43?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![](https://img.shields.io/twitter/follow/elli0t43?color=gray&logo=twitter&label=%40lli0t43&style=flat)](https://twitter.com/elli0t43)
+[![](https://img.shields.io/github/followers/elli0t43?color=gray&label=%40elli0t43&logo=GitHub)](https://github.com/elli0t43)
+[![](https://img.shields.io/github/stars/elli0t43?color=gray&logo=GitHub)](https://github.com/elli0t43)
 
 ## I'm a Gamer, Coder, Productivity Nerd And a Linux Nerd!!
 
