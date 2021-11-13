@@ -36,7 +36,7 @@ also in the meantime I love making new plugins for Minecraft and different bots 
 <a href="https://www.hackerrank.com/elli0t43"><img src="https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=7000FF"></a>
 
 <h3 align="center">Profile Stats</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elli0t43&show_icons=true&theme=radical&title_color=7000FF&text_color=fff&icon_color=8E2DE2" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elli0t43&show_icons=true&theme=radical&hide_border=true&title_color=7000FF&text_color=fff&icon_color=8E2DE2" /></p>
 <h3 align="center">Most Used Languages</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elli0t43&theme=radical&title_color=7000FF&text_color=fff" alt="elli0t43 :: Top Langs"" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elli0t43&theme=radical&&hide_border=true&title_color=7000FF&text_color=fff" alt="elli0t43 :: Top Langs"" /></p>
 
