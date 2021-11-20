@@ -5,10 +5,7 @@
 ![~$ whoami](https://pbs.twimg.com/profile_banners/1052175594304102400/1629300517/1500x500)
 
 Hello again :D
-I am a student of CS, and currently learning Java advance. 
-also in the meantime I love making new plugins for Minecraft and different bots to make things easier.
-
-
+I am a student of CS, and currently learning Rust and Java, 
 
 - 🔭 I’m currently working on this page.
 
