@@ -34,9 +34,9 @@ I am a student of CS, and currently learning Rust and Java,
 
   
 <h3 align="center">Profile Stats</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=elli0t43&show_icons=true&theme=radical&hide_border=true&title_color=7000FF&text_color=fff&icon_color=8E2DE2" /></p>
+<p align="center"><img src="https://github-readme-stats-elli0t43.vercel.app//api?username=elli0t43&show_icons=true&theme=radical&hide_border=true&title_color=7000FF&text_color=fff&icon_color=8E2DE2" /></p>
 <h3 align="center">Github Streak</h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=elli0t43&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=7000FF&ring=8E2DE2&currStreakNum=C200DD&sideNums=7000FF&sideLabels=DDDDDD&dates=00C9DD&currStreakLabel=5B00DD"/></p>
 <h3 align="center">Most Used Languages</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elli0t43&theme=radical&&hide_border=true&title_color=7000FF&text_color=fff" alt="elli0t43 :: Top Langs"" /></p>
+<p align="center"><img src="https://github-readme-stats-elli0t43.vercel.app//api/top-langs/?username=elli0t43&theme=radical&&hide_border=true&title_color=7000FF&text_color=fff" alt="elli0t43 :: Top Langs"" /></p>
 
