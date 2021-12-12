@@ -17,9 +17,8 @@ I am a student of CS, and currently learning Rust and Java,
 <a href="https://github.com/elli0t43?tab=repositories&language=shell"><img src="https://img.shields.io/badge/-bash-black?style=for-the-badge&logo=shell&logoColor=white&labelColor=7000FF"></a>
 <a href="https://github.com/elli0t43?tab=repositories&language=python"><img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=white&labelColor=7000FF"></a>
 <a><img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=7000FF"></a>
-<a><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=7000FF">
-<a href="https://github.com/elli0t43?tab=repositories&language=lua"><img src="https://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua&logoColor=white&labelColor=7000FF"></a>
 <a><img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker&logoColor=white&labelColor=7000FF"></a>
+<a><img src="https://img.shields.io/badge/-rust-black?style=for-the-badge&logo=rust&logoColor=white&labelColor=7000FF"></a>
 
 
 
@@ -30,7 +29,8 @@ I am a student of CS, and currently learning Rust and Java,
 <a href="https://stackoverflow.com/users/16958842/elli0t43"><img src="https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=7000FF"></a>
 <a href="https://dev.to/elli0t43"><img src="https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=7000FF"></a>
 <a href="https://open.spotify.com/user/31xqtdngvy6iwpukfh3cguxcfmjm?si=9610bf6f5a5b4b47"><img src="https://img.shields.io/badge/-spotify-black?style=for-the-badge&logo=spotify&logoColor=white&labelColor=7000FF"></a>
-<a href="https://www.hackerrank.com/elli0t43"><img src="https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=7000FF"></a>
+<a href="https://dev.to/elli0t43"><img src="https://img.shields.io/badge/-myanimelist-black?style=for-the-badge&logo=myanimelist&logoColor=white&labelColor=7000FF"></a>
+
 
   
 <h3 align="center">Profile Stats</h3>
