@@ -32,12 +32,20 @@ I am a student of CS, and currently learning Rust and Java,
 <a href="https://open.spotify.com/user/31xqtdngvy6iwpukfh3cguxcfmjm?si=9610bf6f5a5b4b47"><img src="https://img.shields.io/badge/-spotify-black?style=for-the-badge&logo=spotify&logoColor=white&labelColor=7000FF"></a>
 <a href="https://myanimelist.net/profile/elli0t43"><img src="https://img.shields.io/badge/-myanimelist-black?style=for-the-badge&logo=myanimelist&logoColor=white&labelColor=7000FF"></a>
 </div>
-
-  
 <h3 align="center">Profile Stats</h3>
-<p align="center"><img src="https://github-readme-stats-elli0t43.vercel.app//api?username=elli0t43&show_icons=true&theme=radical&hide_border=true&title_color=7000FF&text_color=fff&icon_color=8E2DE2" /></p>
-<h3 align="center">Github Streak</h3>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=elli0t43&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=7000FF&ring=8E2DE2&currStreakNum=C200DD&sideNums=7000FF&sideLabels=DDDDDD&dates=00C9DD&currStreakLabel=5B00DD"/></p>
+<center> 
+     <table> 
+         <tr> 
+            <td> 
+                 <img width="400px" align="left" src="https://github-readme-stats-elli0t43.vercel.app//api?username=elli0t43&show_icons=true&theme=radical&hide_border=true&title_color=7000FF&text_color=fff&icon_color=8E2DE2"/> 
+             </td> 
+             <td> 
+                 <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=elli0t43&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=7000FF&ring=8E2DE2&currStreakNum=C200DD&sideNums=7000FF&sideLabels=DDDDDD&dates=00C9DD&currStreakLabel=5B00DD" /> 
+             </td> 
+         </tr> 
+     </table> 
+ </center> 
+ 
 <h3 align="center">Most Used Languages</h3>
 <p align="center"><img src="https://github-readme-stats-elli0t43.vercel.app//api/top-langs/?username=elli0t43&theme=radical&&hide_border=true&title_color=7000FF&text_color=fff" alt="elli0t43 :: Top Langs"" /></p>
 
