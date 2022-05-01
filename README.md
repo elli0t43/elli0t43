@@ -32,6 +32,12 @@ I am a student of CS, and currently learning Rust and Java,
 <a href="https://open.spotify.com/user/31xqtdngvy6iwpukfh3cguxcfmjm?si=9610bf6f5a5b4b47"><img src="https://img.shields.io/badge/-spotify-black?style=for-the-badge&logo=spotify&logoColor=white&labelColor=7000FF"></a>
 <a href="https://myanimelist.net/profile/elli0t43"><img src="https://img.shields.io/badge/-myanimelist-black?style=for-the-badge&logo=myanimelist&logoColor=white&labelColor=7000FF"></a>
 </div>
+
+<h3 align="center">Music</h3>
+<div align="center">
+<a href="https://www.last.fm/user/elli0t43"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=elli0t43&color=7000FF&labelColor=black&logoColor=7000FF&label=Last+song+I've+listened+to"></a>
+</div>
+
 <h3 align="center">Profile Stats</h3>
 <center> 
      <table> 
@@ -48,4 +54,3 @@ I am a student of CS, and currently learning Rust and Java,
  
 <h3 align="center">Most Used Languages</h3>
 <p align="center"><img src="https://github-readme-stats-elli0t43.vercel.app//api/top-langs/?username=elli0t43&theme=radical&&hide_border=true&title_color=7000FF&text_color=fff" alt="elli0t43 :: Top Langs"" /></p>
-
