@@ -1,13 +1,12 @@
-Hi there, I am [elli0t43](https://expy.bio/elli0t43) [💻🎮](https://elli0t43.hashnode.dev/)
+Hi there, I am elli0t43[💻🎮](https://elli0t43.hashnode.dev/)
 
 <h3>~$whoami <img align="right" alt="Profile Hits" src="https://visitor-badge.laobi.icu/badge?page_id=elli0t43"></h3>
 
-![~$ whoami](https://pbs.twimg.com/profile_banners/1052175594304102400/1629300517/1500x500)
-
 Hello again :D
-I am a student of CS, and currently learning Rust and Java, 
+
 
 - 🔭 I’m currently working on this page.
+- Meanwhile here some small details about me. I'm Soumyadeep, student of CSE and have an interest in Red Teaming and exploit developement. Currently learning Go-lang and assmebly. 
 <div align=center>
 <h3 align="center">Languages & Tools</h3>
 
