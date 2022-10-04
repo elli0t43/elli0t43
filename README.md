@@ -1,12 +1,8 @@
-Hi there, I am elli0t43[💻🎮](https://elli0t43.hashnode.dev/)
+Hi there, I am elli0t43
 
 <h3>~$whoami <img align="right" alt="Profile Hits" src="https://visitor-badge.laobi.icu/badge?page_id=elli0t43"></h3>
+<div align="center" ><img width="100%" alt="whoami" src="https://github.com/elli0t43/elli0t43/blob/c082b7437cfedb7117bedb7c3d72a22b165896cd/images/1.png"></div>
 
-Hello again :D
-
-
-- 🔭 I’m currently working on this page.
-- Meanwhile here some small details about me. I'm Soumyadeep, student of CSE and have an interest in Red Teaming and exploit developement. Currently learning Go-lang and assmebly. 
 <div align=center>
 <h3 align="center">Languages & Tools</h3>
 
