@@ -31,7 +31,9 @@ Hi there, I am elli0t43
 <a href="https://myanimelist.net/profile/elli0t43"><img src="https://img.shields.io/badge/-myanimelist-black?style=for-the-badge&logo=myanimelist&logoColor=white&labelColor=7000FF"></a>
 <a href="https://app.hackthebox.com/profile/236849"><img src="https://img.shields.io/badge/-hackthebox-black?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=7000FF"></a>
 <a href="https://tryhackme.com/p/elli0t43"><img src="https://img.shields.io/badge/-tryhackme-black?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=7000FF"></a>
+<a href="https://monkeytype.com/profile/elli0t43"><img src="https://img.shields.io/badge/-monkeytype-black?style=for-the-badge&logo=monkeytype&logoColor=white&labelColor=7000FF"></a>
 </div>
+
 
 <h3 align="center">Music</h3>
 <div align="center">
