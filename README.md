@@ -12,7 +12,7 @@ Hi there, I am elli0t43
 <a href="https://github.com/elli0t43?tab=repositories&language=shell"><img src="https://img.shields.io/badge/-bash-black?style=for-the-badge&logo=shell&logoColor=white&labelColor=7000FF"></a>
 <a href="https://github.com/elli0t43?tab=repositories&language=python"><img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=white&labelColor=7000FF"></a>
  <a href="https://github.com/elli0t43?tab=repositories&language=go"><img src="https://img.shields.io/badge/-go-black?style=for-the-badge&logo=go&logoColor=white&labelColor=7000FF"></a>
-  <a href="https://github.com/elli0t43?tab=repositories&language=C"><img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C&logoColor=white&labelColor=7000FF"></a>
+  <a href="https://github.com/elli0t43?tab=repositories&language=C&C++"><img src="https://img.shields.io/badge/-C/C++-black?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=7000FF"></a>
 <a><img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=7000FF"></a>
 <a><img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker&logoColor=white&labelColor=7000FF"></a>
 <a><img src="https://img.shields.io/badge/-kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=7000FF"></a>
