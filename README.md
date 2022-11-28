@@ -4,6 +4,15 @@ Hi there, I am elli0t43
 <div align="center" ><img width="100%" alt="whoami" src="https://github.com/elli0t43/elli0t43/blob/c082b7437cfedb7117bedb7c3d72a22b165896cd/images/1.png"></div>
 
 <div align=center>
+ 
+<h3 align="center">Setup</h3>
+<img src="https://img.shields.io/badge/OS-linux-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=7000FF"></a>
+<img src="https://img.shields.io/badge/Distro-arch-black?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=7000FF"></a>
+<img src="https://img.shields.io/badge/WM-bspwm-black?style=for-the-badge&logo=bspwm&logoColor=white&labelColor=7000FF"></a>
+<img src="https://img.shields.io/badge/Terminal-alacritty-black?style=for-the-badge&logo=alacritty&logoColor=white&labelColor=7000FF"></a>
+<img src="https://img.shields.io/badge/IDE-neovim-black?style=for-the-badge&logo=neovim&logoColor=white&labelColor=7000FF"></a>
+<img src="https://img.shields.io/badge/Multiplexer-tmux-black?style=for-the-badge&logo=tmux&logoColor=white&labelColor=7000FF"></a>
+
 <h3 align="center">Languages & Tools</h3>
 
 <a href="https://github.com/elli0t43?tab=repositories&language=java"><img src="https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=white&labelColor=7000FF"></a>
