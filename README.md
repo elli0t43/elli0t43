@@ -45,5 +45,4 @@
 </div>-->
 
 <div align="center" ><img width="100%" alt="Profile Stats" src="https://github.com/elli0t43/elli0t43/blob/main/images/profile.png?raw=true"></div>
-<center> 
-</center>
+<img width="450px" align="center" src="https://github.com/elli0t43/elli0t43/blob/main/github-metrics.svg?raw=true">
