@@ -2,9 +2,8 @@
 <div align="center" ><img width="100%" alt="Main" src="https://github.com/elli0t43/elli0t43/blob/main/images/main.png?raw=true"></div>
 
 <div align=center>
- 
- <div align="center" ><img width="100%" alt="Setup" src="https://github.com/elli0t43/elli0t43/blob/main/images/setup.png?raw=true"></div>
- <img src="https://img.shields.io/badge/OS-linux-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=1F3849"></a>
+<div align="center" ><img width="100%" alt="Setup" src="https://github.com/elli0t43/elli0t43/blob/main/images/setup.png?raw=true"></div>
+<img src="https://img.shields.io/badge/OS-linux-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=1F3849"></a>
 <img src="https://img.shields.io/badge/Distro-arch-black?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1F3849"></a>
 <img src="https://img.shields.io/badge/WM-bspwm-black?style=for-the-badge&logo=bspwm&logoColor=white&labelColor=1F3849"></a>
 <img src="https://img.shields.io/badge/Terminal-alacritty-black?style=for-the-badge&logo=alacritty&logoColor=white&labelColor=1F3849"></a>
@@ -17,8 +16,8 @@
 <a href="https://github.com/elli0t43?tab=repositories&language=haskell"><img src="https://img.shields.io/badge/-Haskell-black?style=for-the-badge&logo=haskell&logoColor=white&labelColor=1F3849"></a>
 <a href="https://github.com/elli0t43?tab=repositories&language=shell"><img src="https://img.shields.io/badge/-bash-black?style=for-the-badge&logo=shell&logoColor=white&labelColor=1F3849"></a>
 <a href="https://github.com/elli0t43?tab=repositories&language=python"><img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=white&labelColor=1F3849"></a>
- <a href="https://github.com/elli0t43?tab=repositories&language=go"><img src="https://img.shields.io/badge/-go-black?style=for-the-badge&logo=go&logoColor=white&labelColor=1F3849"></a>
-  <a href="https://github.com/elli0t43?tab=repositories&language=C&C++"><img src="https://img.shields.io/badge/-C/C++-black?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=1F3849"></a>
+<a href="https://github.com/elli0t43?tab=repositories&language=go"><img src="https://img.shields.io/badge/-go-black?style=for-the-badge&logo=go&logoColor=white&labelColor=1F3849"></a>
+<a href="https://github.com/elli0t43?tab=repositories&language=C&C++"><img src="https://img.shields.io/badge/-C/C++-black?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=1F3849"></a>
 <a><img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=1F3849"></a>
 <a><img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker&logoColor=white&labelColor=1F3849"></a>
 <a><img src="https://img.shields.io/badge/-kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1F3849"></a>
@@ -27,7 +26,7 @@
 </div>
 
 <div align=center>
- <div align="center" ><img width="100%" alt="Socials" src="https://github.com/elli0t43/elli0t43/blob/main/images/socials.png"></div>
+<div align="center" ><img width="100%" alt="Socials" src="https://github.com/elli0t43/elli0t43/blob/main/images/socials.png"></div>
 <a href="elli0t43#5498"><img src="https://img.shields.io/badge/-discord-black?style=for-the-badge&logo=discord&logoColor=white&labelColor=1F3849"></a>
 <a href="https://instagram.com/elli0t43"><img src="https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1F3849"></a>
 <a href="https://github.com/elli0t43"><img src="https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=1F3849"></a>
@@ -40,25 +39,11 @@
 <a href="https://monkeytype.com/profile/elli0t43"><img src="https://img.shields.io/badge/-monkeytype-black?style=for-the-badge&logo=monkeytype&logoColor=white&labelColor=1F3849"></a>
 </div>
 
-
- <!--<div align="center" ><img width="100%" alt="Music" src="https://github.com/elli0t43/elli0t43/blob/main/images/music.png?raw=true"></div>
+<!--<div align="center" ><img width="100%" alt="Music" src="https://github.com/elli0t43/elli0t43/blob/main/images/music.png?raw=true"></div>
 <div align="center">
 <a href="https://www.last.fm/user/elli0t43"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=elli0t43&color=1F3849&labelColor=black&logoColor=1F3849&label=Last+song+I've+listened+to"></a>
 </div>-->
 
 <div align="center" ><img width="100%" alt="Profile Stats" src="https://github.com/elli0t43/elli0t43/blob/main/images/profile.png?raw=true"></div>
 <center> 
-     <table> 
-          <tr>
-   <td>
-    <img width="400px" align="left" src="https://github-readme-stats-elli0t43.vercel.app//api?username=elli0t43&show_icons=true&theme=radical&hide_border=true&title_color=1F3849&text_color=fff&icon_color=8E2DE2"/>
-   </td>
-   <td>
-    <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=elli0t43&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=1F3849&ring=8E2DE2&currStreakNum=C200DD&sideNums=1F3849&sideLabels=DDDDDD&dates=00C9DD&currStreakLabel=5B00DD" />
-                </td>
-            </tr>
-        </table>
-   </center>
-
-   <h3 align="center">Most Used Languages</h3>
-   <p align="center"><img src="https://github-readme-stats-elli0t43.vercel.app//api/top-langs/?username=elli0t43&theme=radical&&hide_border=true&title_color=1F3849&text_color=fff" alt="elli0t43 :: Top Langs"" /></p>
+</center>
