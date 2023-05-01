@@ -1,10 +1,9 @@
 Hi there, I am elli0t43
 
 <h3>~$whoami <img align="right" alt="Profile Hits" src="https://visitor-badge.laobi.icu/badge?page_id=elli0t43"></h3>
-<div align="center" ><img width="100%" alt="whoami" src="https://github.com/elli0t43/elli0t43/blob/c082b7437cfedb7117bedb7c3d72a22b165896cd/images/1.png"></div>
+<div align="center" ><img width="100%" alt="whoami" src="https://github.com/elli0t43/elli0t43/blob/main/images/old-README.png?raw=true"></div>
 
 <div align=center>
-
     <h3 align="center">Setup</h3>
     <img src="https://img.shields.io/badge/OS-linux-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=7000FF"></a>
     <img src="https://img.shields.io/badge/Distro-arch-black?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=7000FF"></a>
@@ -12,9 +11,7 @@ Hi there, I am elli0t43
     <img src="https://img.shields.io/badge/Terminal-alacritty-black?style=for-the-badge&logo=alacritty&logoColor=white&labelColor=7000FF"></a>
     <img src="https://img.shields.io/badge/IDE-neovim-black?style=for-the-badge&logo=neovim&logoColor=white&labelColor=7000FF"></a>
     <img src="https://img.shields.io/badge/Multiplexer-tmux-black?style=for-the-badge&logo=tmux&logoColor=white&labelColor=7000FF"></a>
-
     <h3 align="center">Languages & Tools</h3>
-
     <a href="https://github.com/elli0t43?tab=repositories&language=java"><img src="https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=white&labelColor=7000FF"></a>
     <a href="https://github.com/elli0t43?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&logoColor=white&labelColor=7000FF"></a>
     <a href="https://github.com/elli0t43?tab=repositories&language=haskell"><img src="https://img.shields.io/badge/-Haskell-black?style=for-the-badge&logo=haskell&logoColor=white&labelColor=7000FF"></a>
@@ -26,12 +23,9 @@ Hi there, I am elli0t43
     <a><img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker&logoColor=white&labelColor=7000FF"></a>
     <a><img src="https://img.shields.io/badge/-kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=7000FF"></a>
     <a><img src="https://img.shields.io/badge/-container d-black?style=for-the-badge&logo=containerd&logoColor=white&labelColor=7000FF"></a>
-
 </div>
-
 <div align=center>
     <h3 align="center">Socials</h3>
-
     <a href="elli0t43#5498"><img src="https://img.shields.io/badge/-discord-black?style=for-the-badge&logo=discord&logoColor=white&labelColor=7000FF"></a>
     <a href="https://instagram.com/elli0t43"><img src="https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram&logoColor=white&labelColor=7000FF"></a>
     <a href="https://github.com/elli0t43"><img src="https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=7000FF"></a>
@@ -63,7 +57,6 @@ Hi there, I am elli0t43
                         </tr> 
                     </table> 
             </center> 
-
             <h3 align="center">Most Used Languages</h3>
             <p align="center"><img src="https://github-readme-stats-elli0t43.vercel.app//api/top-langs/?username=elli0t43&theme=radical&&hide_border=true&title_color=7000FF&text_color=fff" alt="elli0t43 :: Top Langs"" /></p>
             
