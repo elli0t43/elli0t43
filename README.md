@@ -1,11 +1,9 @@
-Hi there, I am elli0t43
-
 <h3>~$whoami <img align="right" alt="Profile Hits" src="https://visitor-badge.laobi.icu/badge?page_id=elli0t43"></h3>
-<div align="center" ><img width="100%" alt="Main" src=""></div>
+<div align="center" ><img width="100%" alt="Main" src="https://github.com/elli0t43/elli0t43/blob/main/images/main.png?raw=true"></div>
 
 <div align=center>
  
- <div align="center" ><img width="100%" alt="Setup" src=""></div>
+ <div align="center" ><img width="80%" height="1%" alt="Setup" src="https://github.com/elli0t43/elli0t43/blob/main/images/setup.png?raw=true"></div>
  <img src="https://img.shields.io/badge/OS-linux-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=7000FF"></a>
 <img src="https://img.shields.io/badge/Distro-arch-black?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=7000FF"></a>
 <img src="https://img.shields.io/badge/WM-bspwm-black?style=for-the-badge&logo=bspwm&logoColor=white&labelColor=7000FF"></a>
@@ -13,7 +11,7 @@ Hi there, I am elli0t43
 <img src="https://img.shields.io/badge/IDE-neovim-black?style=for-the-badge&logo=neovim&logoColor=white&labelColor=7000FF"></a>
 <img src="https://img.shields.io/badge/Multiplexer-tmux-black?style=for-the-badge&logo=tmux&logoColor=white&labelColor=7000FF"></a>
 
-<div align="center" ><img width="100%" alt="Languages and Tools" src=""></div>
+<div align="center" ><img width="75%" alt="Languages and Tools" src="https://github.com/elli0t43/elli0t43/blob/main/images/language.png?raw=true"></div>
 <a href="https://github.com/elli0t43?tab=repositories&language=java"><img src="https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=white&labelColor=7000FF"></a>
 <a href="https://github.com/elli0t43?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&logoColor=white&labelColor=7000FF"></a>
 <a href="https://github.com/elli0t43?tab=repositories&language=haskell"><img src="https://img.shields.io/badge/-Haskell-black?style=for-the-badge&logo=haskell&logoColor=white&labelColor=7000FF"></a>
@@ -29,7 +27,7 @@ Hi there, I am elli0t43
 </div>
 
 <div align=center>
- <div align="center" ><img width="100%" alt="Socials" src=""></div>
+ <div align="center" ><img width="100%" alt="Socials" src="https://github.com/elli0t43/elli0t43/blob/main/images/socials.png"></div>
 <a href="elli0t43#5498"><img src="https://img.shields.io/badge/-discord-black?style=for-the-badge&logo=discord&logoColor=white&labelColor=7000FF"></a>
 <a href="https://instagram.com/elli0t43"><img src="https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram&logoColor=white&labelColor=7000FF"></a>
 <a href="https://github.com/elli0t43"><img src="https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=7000FF"></a>
@@ -43,24 +41,24 @@ Hi there, I am elli0t43
 </div>
 
 
-<div align="center" ><img width="100%" alt="Music" src=""></div>
+ <!--<div align="center" ><img width="100%" alt="Music" src="https://github.com/elli0t43/elli0t43/blob/main/images/music.png?raw=true"></div>
 <div align="center">
 <a href="https://www.last.fm/user/elli0t43"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=elli0t43&color=7000FF&labelColor=black&logoColor=7000FF&label=Last+song+I've+listened+to"></a>
-</div>
+</div>-->
 
-<div align="center" ><img width="100%" alt="Profile Stats" src=""></div>
+<div align="center" ><img width="100%" alt="Profile Stats" src="https://github.com/elli0t43/elli0t43/blob/main/images/profile.png?raw=true"></div>
 <center> 
      <table> 
-         <tr> 
-            <td> 
-                 <img width="400px" align="left" src="https://github-readme-stats-elli0t43.vercel.app//api?username=elli0t43&show_icons=true&theme=radical&hide_border=true&title_color=7000FF&text_color=fff&icon_color=8E2DE2"/> 
-             </td> 
-             <td> 
-                 <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=elli0t43&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=7000FF&ring=8E2DE2&currStreakNum=C200DD&sideNums=7000FF&sideLabels=DDDDDD&dates=00C9DD&currStreakLabel=5B00DD" /> 
-             </td> 
-         </tr> 
-     </table> 
- </center> 
- 
-<h3 align="center">Most Used Languages</h3>
-<p align="center"><img src="https://github-readme-stats-elli0t43.vercel.app//api/top-langs/?username=elli0t43&theme=radical&&hide_border=true&title_color=7000FF&text_color=fff" alt="elli0t43 :: Top Langs"" /></p>
+          <tr>
+   <td>
+    <img width="400px" align="left" src="https://github-readme-stats-elli0t43.vercel.app//api?username=elli0t43&show_icons=true&theme=radical&hide_border=true&title_color=7000FF&text_color=fff&icon_color=8E2DE2"/>
+   </td>
+   <td>
+    <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=elli0t43&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=7000FF&ring=8E2DE2&currStreakNum=C200DD&sideNums=7000FF&sideLabels=DDDDDD&dates=00C9DD&currStreakLabel=5B00DD" />
+                </td>
+            </tr>
+        </table>
+   </center>
+
+   <h3 align="center">Most Used Languages</h3>
+   <p align="center"><img src="https://github-readme-stats-elli0t43.vercel.app//api/top-langs/?username=elli0t43&theme=radical&&hide_border=true&title_color=7000FF&text_color=fff" alt="elli0t43 :: Top Langs"" /></p>
