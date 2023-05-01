@@ -3,7 +3,7 @@
 
 <div align=center>
  
- <div align="center" ><img width="80%" height="1%" alt="Setup" src="https://github.com/elli0t43/elli0t43/blob/main/images/setup.png?raw=true"></div>
+ <div align="center" ><img width="100%" alt="Setup" src="https://github.com/elli0t43/elli0t43/blob/main/images/setup.png?raw=true"></div>
  <img src="https://img.shields.io/badge/OS-linux-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=7000FF"></a>
 <img src="https://img.shields.io/badge/Distro-arch-black?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=7000FF"></a>
 <img src="https://img.shields.io/badge/WM-bspwm-black?style=for-the-badge&logo=bspwm&logoColor=white&labelColor=7000FF"></a>
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/IDE-neovim-black?style=for-the-badge&logo=neovim&logoColor=white&labelColor=7000FF"></a>
 <img src="https://img.shields.io/badge/Multiplexer-tmux-black?style=for-the-badge&logo=tmux&logoColor=white&labelColor=7000FF"></a>
 
-<div align="center" ><img width="75%" alt="Languages and Tools" src="https://github.com/elli0t43/elli0t43/blob/main/images/language.png?raw=true"></div>
+<div align="center" ><img width="100%" alt="Languages and Tools" src="https://github.com/elli0t43/elli0t43/blob/main/images/language.png?raw=true"></div>
 <a href="https://github.com/elli0t43?tab=repositories&language=java"><img src="https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=white&labelColor=7000FF"></a>
 <a href="https://github.com/elli0t43?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&logoColor=white&labelColor=7000FF"></a>
 <a href="https://github.com/elli0t43?tab=repositories&language=haskell"><img src="https://img.shields.io/badge/-Haskell-black?style=for-the-badge&logo=haskell&logoColor=white&labelColor=7000FF"></a>
