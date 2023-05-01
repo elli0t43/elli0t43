@@ -19,5 +19,5 @@ jobs:
           # Options
           user: elli0t43
           template: classic
-          base: header, metadata, repositories
+          base: header, metadata, repositories, activity, community
           config_timezone: Asia/Calcutta
