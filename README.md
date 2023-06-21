@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/WM-bspwm-black?style=for-the-badge&logo=bspwm&logoColor=white&labelColor=1F3849"></a>
 <img src="https://img.shields.io/badge/Terminal-alacritty-black?style=for-the-badge&logo=alacritty&logoColor=white&labelColor=1F3849"></a>
 <img src="https://img.shields.io/badge/IDE-neovim-black?style=for-the-badge&logo=neovim&logoColor=white&labelColor=1F3849"></a>
-<img src="https://img.shields.io/badge/Multiplexer-tmux-black?style=for-the-badge&logo=tmux&logoColor=white&labelColor=1F3849"></a>
+<img src="https://img.shields.io/badge/Multiplexer-zellij-black?style=for-the-badge&logo=zellij&logoColor=white&labelColor=1F3849"></a>
 
 <div align="center" ><img width="100%" alt="Languages and Tools" src="https://github.com/elli0t43/elli0t43/blob/main/images/language.png?raw=true"></div>
 <a href="https://github.com/elli0t43?tab=repositories&language=java"><img src="https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=white&labelColor=1F3849"></a>
